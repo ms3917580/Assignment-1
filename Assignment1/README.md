@@ -1,2 +1,2 @@
-# Assignment-1
+# Assignments
 OOP assignment 1
